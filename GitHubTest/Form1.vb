@@ -10,4 +10,8 @@
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         MessageBox.Show("Hello World3!")
     End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        MessageBox.Show("Hello World4!")
+    End Sub
 End Class
